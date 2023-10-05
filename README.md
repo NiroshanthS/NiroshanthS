@@ -19,17 +19,17 @@
 - 📫 You can reach me via [email](sathasivamniroshanth@gmail.com).
 
 ## Intermediate Knowledge with 
-| Language       | Icon                                                                                      |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| C++            | <img src="https://example.com/path/to/cpp-icon.png" width="24" height="24">              |
-| C#             | <img src="https://example.com/path/to/csharp-icon.png" width="24" height="24">           |
-| ASP.NET        | <img src="https://example.com/path/to/aspnet-icon.png" width="24" height="24">          |
-| PHP            | <img src="https://example.com/path/to/php-icon.png" width="24" height="24">              |
-| HTML           | <img src="https://example.com/path/to/html-icon.png" width="24" height="24">             |
-| CSS            | <img src="https://example.com/path/to/css-icon.png" width="24" height="24">              |
-| JavaScript     | <img src="https://example.com/path/to/javascript-icon.png" width="24" height="24">       |
-| MySQL          | <img src="https://example.com/path/to/mysql-icon.png" width="24" height="24">            |
-| SQL            | <img src="https://example.com/path/to/sql-icon.png" width="24" height="24">              |
+| Language       | Emoji       |
+| -------------- | ----------- |
+| C++            | :heavy_plus_sign::heavy_plus_sign: |
+| C#             | :hash: |
+| ASP.NET        | :sparkles: |
+| PHP            | :elephant: |
+| HTML           | :computer: |
+| CSS            | :art: |
+| JavaScript     | :zap: |
+| MySQL          | :arrows_clockwise: |
+| SQL            | :1234: |
 <!--
 **NiroshanthS/NiroshanthS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
