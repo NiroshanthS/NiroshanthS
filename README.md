@@ -16,7 +16,7 @@
 
 ## Contact Me
 
-- 📫 You can reach me via email at [email](sathasivamniroshanth@gmail.com).
+- 📫 You can reach me via [email](sathasivamniroshanth@gmail.com).
 
 <!--
 **NiroshanthS/NiroshanthS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
